@@ -48,18 +48,28 @@ The project demonstrates a structured workflow covering data exploration, cleani
 dashboard/screenshots
 [RBI dashboard on economic trend.pbit.pbix
 Screenshot 2026-02-03 140807.png]
+
+
 data
 [processed
 raw]
+
+
 notebooks
 [RBI_data_analysis_.ipynb]
+
+
 references
+
 sql
 [Data cleaning and validation check.sql
 data exploring and understanding .sql
 data transformation.sql]
+
 .gitignore
+
 LICENSE
+
 README.md
 
 
